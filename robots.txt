@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nubeimiub.soabase.io/sitemap.xml
